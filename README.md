@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Arshad Ch</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">I'm Software Engineer, Full Stack Web Developer and Entrepreneur from India</h3>
 
 
 
