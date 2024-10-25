@@ -39,6 +39,10 @@ Assisted in installation and configuration of Acro-bis and Acro-tex accounting s
 </p>
 
 
+- 🔭 Linkedin Profile [Linkedin](https://www.linkedin.com/in/mohamed-arshad-ch/)
+  
+- 🔭 Instagram Profile [Instagram](https://www.instagram.com/mohamed__arshad____/)
+  
 - 🔭 I’m currently working on [NexMart](https://github.com/32OH/nexmart-web)
 
 - 🌱 I’m currently learning **AWS Lambda,Serverless Architectures**
